@@ -32,6 +32,7 @@
 ## RESULT
 
 Practical frequency of Oscillation =
+
 Theoritical Frequency of Oscillation =
 <img width="984" height="1460" alt="image" src="https://github.com/user-attachments/assets/c2f16a30-117b-446e-b281-d0405ea16e3c" />
 
