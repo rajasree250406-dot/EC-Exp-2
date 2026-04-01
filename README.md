@@ -12,14 +12,28 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
+## CIRCUIT DIAGRAM
+<img width="932" height="1600" alt="image" src="https://github.com/user-attachments/assets/60271381-1042-4b17-82e1-bc8981597363" />
+
+
 
 ## Tabulation
+<img width="816" height="1451" alt="image" src="https://github.com/user-attachments/assets/2d01a81d-91a1-44b9-ae4f-ad8af92bcd33" />
+
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+<img width="982" height="1572" alt="image" src="https://github.com/user-attachments/assets/18df1ff6-5d93-4280-b006-5616ae8653f8" />
+
+## CALCULATION
+<img width="722" height="1400" alt="image" src="https://github.com/user-attachments/assets/127e1b0c-f469-4443-941b-484f772e78ea" />
+
+## RESULT
 
 Practical frequency of Oscillation =
 
-
 Theoritical Frequency of Oscillation =
+<img width="722" height="1400" alt="image" src="https://github.com/user-attachments/assets/3f7107e1-6752-4c81-b489-bdf1b9f5a944" />
+
+
